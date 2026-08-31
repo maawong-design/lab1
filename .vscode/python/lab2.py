@@ -1,11 +1,3 @@
-# ==============================================================================
-# DỰ ÁN: PHÂN TÍCH HIỆU QUẢ BÁN HÀNG & HÀNH VI KHÁCH HÀNG
-# CỬA HÀNG BÁN LẺ E-COMMERCE - NĂM 2025
-# Tác giả: Senior Data Scientist
-# Mô tả: Script phân tích dữ liệu kinh doanh từ A-Z:
-#        Sinh dữ liệu giả lập -> Tiền xử lý -> Tính KPI -> Trực quan hóa -> Xuất báo cáo
-# ==============================================================================
-
 import os
 import math
 import webbrowser
